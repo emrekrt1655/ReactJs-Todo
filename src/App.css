@@ -92,3 +92,17 @@
     text-decoration: line-through;
     opacity: 0.4;
   }
+
+  .count {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+
+  .countPart {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 4px auto;
+    color: #fff;
+  }
